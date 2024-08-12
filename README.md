@@ -9,11 +9,11 @@ Prerequisites: Basic knowledge of computer architecture and programming.
 
 Learning Outcomes:
 
-. Understand the core functions and components of operating systems.
-. Develop skills in process and memory management.
-. Gain insights into file system implementation and management.
-. Learn about the mechanisms of process synchronization and deadlock handling.
-. Understand the security features and protection mechanisms within operating systems.
-. Apply OS concepts through practical projects and case studies.**
+- Understand the core functions and components of operating systems.
+- Develop skills in process and memory management.
+- Gain insights into file system implementation and management.
+- Learn about the mechanisms of process synchronization and deadlock handling.
+- Understand the security features and protection mechanisms within operating systems.
+- Apply OS concepts through practical projects and case studies.**
 
 ![1_Q2kGiW1iV694qFL7v7qnVg](https://github.com/user-attachments/assets/54549852-41ef-450f-bd02-48528ddb3c6c)
